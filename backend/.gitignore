@@ -1,0 +1,7 @@
+# Backend node_modules
+node_modules/
+
+# Ignore any other backend-specific build output or log files
+build/
+logs/
+*.env
